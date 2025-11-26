@@ -104,8 +104,9 @@ Tabulation
 
 
 Calculation
-![WhatsApp Image 2025-11-22 at 21 39 51_0b51c1d7](https://github.com/user-attachments/assets/3f85bcd5-084a-4ddf-bd81-f74a10770a15)
 
+
+<img width="1176" height="1280" alt="image" src="https://github.com/user-attachments/assets/c8f0e75c-6025-43a1-abf9-21783158867e" />
 
 
 Frequency Deviation Practical = 2559.1
